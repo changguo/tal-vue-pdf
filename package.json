@@ -1,6 +1,6 @@
 {
   "name": "tal-vue-pdf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue.js pdf viewer",
   "main": "src/vuePdfNoSss.vue",
   "scripts": {},
