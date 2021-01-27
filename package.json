@@ -1,6 +1,6 @@
 {
   "name": "tal-vue-pdf",
-  "version": "4.2.0",
+  "version": "1.0.0",
   "description": "vue.js pdf viewer",
   "main": "src/vuePdfNoSss.vue",
   "scripts": {},
@@ -13,7 +13,7 @@
     "pdf",
     "viewer"
   ],
-  "author": "Franck FREIBURGER",
+  "author": "guochang",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/FranckFreiburger/vue-pdf/issues"
