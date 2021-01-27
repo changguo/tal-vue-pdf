@@ -2,9 +2,10 @@
 <script>
 import componentFactory from "./componentFactory.js";
 import PdfjsWorker from "pdfjs-dist/build/pdf.worker.js";
+import * as PDFJS from "pdfjs-dist/es5/build/pdf";
 if (process.env.VUE_ENV !== "server") {
   var pdfjsWrapper = require("./pdfjsWrapper.js").default;
-  var PDFJS = require("pdfjs-dist/es5/build/pdf.js");
+  // var PDFJS = require("pdfjs-dist/es5/build/pdf.js");
   if (
     typeof window !== "undefined" &&
     "Worker" in window &&
