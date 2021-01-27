@@ -1,12 +1,12 @@
 {
-  "name": "vue-pdf",
+  "name": "tal-vue-pdf",
   "version": "4.2.0",
   "description": "vue.js pdf viewer",
   "main": "src/vuePdfNoSss.vue",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FranckFreiburger/vue-pdf.git"
+    "url": "git+https://github.com/changguo/tal-vue-pdf.git"
   },
   "keywords": [
     "vue.js",
